@@ -1,0 +1,37 @@
+[
+  {
+    "name":"King Double",
+    "shortname":"doubleone",
+    "reknown":"Feeling lucky?",
+    "bio":"Adolf hitler slept here with his beautiful Eva Braun",
+    "price":"666"
+  },
+  {
+    "name":"King Single",
+    "shortname":"singleone",
+    "reknown":"King single and ready to mingle",
+    "bio":"King Single",
+    "price": "666"
+  },
+  {
+    "name":"King Double Trouble",
+    "shortname":"doubletwo",
+    "reknown":"Double room",
+    "bio":"Double trouble",
+    "price": "666"
+  },
+  {
+    "name":"King Single Jingle",
+    "shortname":"singletwo",
+    "reknown":"King of the jingle?",
+    "bio":"The most popular singleroom",
+    "price": "666"
+  },
+  {
+    "name":"King Family",
+    "shortname":"family",
+    "reknown":"A decent family room",
+    "bio":"Family first",
+    "price": "666"
+  }
+]

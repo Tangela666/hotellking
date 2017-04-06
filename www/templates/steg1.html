@@ -1,0 +1,39 @@
+<ion-header-bar class="bar-dark">
+<a href="#/home" class= "button button-icon-ion-android-arrow-back">Home</a>
+        <h1 class="title">Kingen of the castle</h1>
+
+      </ion-header-bar>
+
+<ion-content ng-controller ="ListController">
+      
+        <div class="list">
+          <form name="validering">
+          <label class="item item-input">
+            <input ng-model="info.checkinmonth" type="text" placeholder="checkinmonth" required>
+          </label>
+          <label class="item item-input">
+            <input ng-model="info.checkindate" type="text" placeholder="checkindate" required>
+          </label>
+          <label class="item item-input">
+            <input ng-model="info.checkoutmonth" type="text" placeholder="checkoutmonth" required>
+          </label>
+          <label class="item item-input">
+            <input ng-model="info.checkoutdate" type="text" placeholder="checkoutdate" required>
+          </label>
+          <label class="item item-input">
+            <input ng-model="info.adult" type="text" placeholder="adult" required>
+          </label>
+          <label class="item item-input">
+            <input ng-model="info.children" type="text" placeholder="children" required>
+          </label>
+
+          <button ng-disabled="validering.$invalid" ui-sref="steg2" type="submit" class="button button-block button-dark">
+          Next</button>
+
+       </form>
+
+        </div>
+
+        
+
+      </ion-content>

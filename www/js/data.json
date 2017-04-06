@@ -1,0 +1,38 @@
+[
+  {
+    "name":"King Double",
+    "shortname":"doubleone",
+    "reknown":"Feeling lucky?",
+    "bio":"This room is haunted",
+    "price":"1000$/night"
+
+  },
+  {
+    "name":"King Single",
+    "shortname":"singleone",
+    "reknown":"King single and ready to mingle",
+    "bio":"King Single",
+    "price":"500$/night"
+  },
+  {
+    "name":"King Double Trouble",
+    "shortname":"doubletwo",
+    "reknown":"Double room",
+    "bio":"Double trouble",
+    "price":"1000$/night"
+  },
+  {
+    "name":"King Single Jingle",
+    "shortname":"singletwo",
+    "reknown":"King of the jingle?",
+    "bio":"The most popular singleroom",
+    "price":"500$/night"
+  },
+  {
+    "name":"King Family",
+    "shortname":"family",
+    "reknown":"A decent family room",
+    "bio":"Family first",
+    "price":"2000$/night"
+  }
+]
